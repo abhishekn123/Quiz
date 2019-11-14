@@ -1,0 +1,61 @@
+*{
+   margin:0px;
+   padding:0px; 
+}
+#signin
+{
+    width:350px;
+    margin:100px auto;
+    border-radius: 20px;
+    background-color:#FFFFFF;
+}
+.md-form
+{
+
+    width:300px;
+    margin:0 auto;
+}
+#userlogo
+{
+    text-align: center;
+    margin-top:30px;
+}
+#sbtn
+{
+    margin-top:0px;
+    text-align:center;
+}
+#cur
+{
+	cursor: pointer;
+}
+#user
+{
+    font-size:70px;
+}
+#prefix
+{
+    font-size:30px;
+}
+#form1
+{
+    background-color:#FFFFFF;
+    width:350px;
+    margin:0 auto;
+    margin-top:80px;
+    border-radius:30px;
+}
+body, html {
+  height: 100%;
+}
+.bg {
+  background-image: url('images/bg.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#list-home-list,#list-profile-list,#list-settings-list,#list-messages-list
+{
+    text-align: center;
+}
